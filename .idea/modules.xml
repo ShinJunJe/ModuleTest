@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ModuleTest.iml" filepath="$PROJECT_DIR$/ModuleTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packt.addressbook/packt.addressbook.iml" filepath="$PROJECT_DIR$/packt.addressbook/packt.addressbook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packt.contact/packt.contact.iml" filepath="$PROJECT_DIR$/packt.contact/packt.contact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packt.sortutil/packt.sortutil.iml" filepath="$PROJECT_DIR$/packt.sortutil/packt.sortutil.iml" />
+    </modules>
+  </component>
+</project>
