@@ -7,10 +7,11 @@ public class Contact implements Comparable{
     private String phoneNumber;
     private Address address;
 
-    public Contact(String firstName, String lastName, String phoneNumber){
+    public Contact(String firstName, String lastName, String phoneNumber, Address address){
         this.firstName = firstName;
         this.lastName = lastName;
         this.phoneNumber = phoneNumber;
+        this.address = address;
     }
 
     public String getFirstName() {
@@ -38,7 +39,7 @@ public class Contact implements Comparable{
     }
 
     public String toString(){
-        return this.lastName + " " + this.phoneNumber;
+        return this.lastName + " " + this.phoneNumber + " " + address;
     }
 
     public int compareTo(Object other) {

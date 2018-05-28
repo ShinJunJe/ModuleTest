@@ -7,7 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="packt.sortutil" exported="" />
-    <orderEntry type="module" module-name="packt.contact" exported="" />
+    <orderEntry type="module" module-name="packt.contact" />
+    <orderEntry type="module" module-name="packt.sortutil" />
   </component>
 </module>
